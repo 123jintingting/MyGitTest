@@ -1,9 +1,11 @@
-��һ�ļ�
+我一文件
 hello world
 
-��ã�����
+你好，世界
 wonderful
 
-�۹���
+哇哈哈
 
 nothing
+
+66666
